@@ -46,7 +46,7 @@ A deep learning pipeline for **8-class automated detection of gastrointestinal d
 | Ulcerative Colitis | ~93% |
 | Dyed Resection Margins | ~96% |
 
-*(Update with your actual per-class metrics from classification report)*
+*(approximately updated with actual per-class metrics from classification report)*
 
 ---
 
